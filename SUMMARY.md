@@ -5,9 +5,10 @@
   * [The first computers](chapter1/computers.md)
   * [The first networks](chapter1/networks.md)
 * [A Typical Web Application](chapter2/README.md)
-  * The client-side
-  * The server-side
+  * [The server-side](chapter2/server.md)
+  * [The client-side](chapter2/client.md)
   * The database
+  * The API
 * Software
   * Typical languages
   * Strongly typed vs dynamically typed
@@ -36,7 +37,7 @@
   * Penetration tests
 * Packaging and Deployment
 * Monitoring
-  * Logs
+  * Logging
   * Metrics
   * Alarms
   * Notifications
